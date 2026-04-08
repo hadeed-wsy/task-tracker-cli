@@ -19,7 +19,7 @@ Supports task creation, updates, deletion, and status tracking with timestamps.
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone <>
 cd task-tracker-cli
 ```
 
@@ -40,7 +40,7 @@ python main.py <command> [arguments]
 ### Add task
 
 ```bash
-python main.py add "buy chocolate"
+python main.py add "buy ice cream"
 ```
 
 ### List tasks
@@ -52,7 +52,7 @@ python main.py list
 ### Update task
 
 ```bash
-python main.py update 1 "buy ice cream"
+python main.py update 1 "buy chocolate"
 ```
 
 ### Delete task
