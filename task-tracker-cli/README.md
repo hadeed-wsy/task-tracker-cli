@@ -19,7 +19,7 @@ Supports task creation, updates, deletion, and status tracking with timestamps.
 ## Installation
 
 ```bash
-git clone <>
+git clone <https://github.com/hadeed-wsy/task-tracker-cli/tree/main>
 cd task-tracker-cli
 ```
 
